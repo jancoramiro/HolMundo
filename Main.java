@@ -1,5 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("¡Hola Mundo desde mi Git Bash!");
+        int numero1 = 10;
+        int numero2 = 20;
+        int suma = numero1 + numero2;
+        System.out.println("La suma en la rama desarrollo es: " + suma);
     }
 }
